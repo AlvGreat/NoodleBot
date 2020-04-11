@@ -12,7 +12,7 @@ module.exports = {
         
         
         const exampleEmbed = {
-            color: 0x57f7f7,
+            color: 0x92C6DD,
             author: {
                 name: 'Playlist Links',
             },
