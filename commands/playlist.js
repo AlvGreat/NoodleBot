@@ -13,10 +13,10 @@ module.exports = {
         
         const exampleEmbed = {
             color: 0x92C6DD,
-            author: {
-                name: 'Playlist Links:',
+             author: {
+                name: 'Shrimp and Noodles Playlist Links:',
+                icon_url: 'https://i.imgur.com/fAdBf3B.jpg'
             },
-
             fields: [
                 {
                     name: 'Main Playlist:',
