@@ -29,6 +29,13 @@ module.exports = {
                     value: 'https://www.youtube.com/playlist?list=PLrwcmfgl_RFpDIEUh3h_AumYNuDYsPAOw',
                     inline: false,
                 },
+		
+		{
+                    name: 'Faves Playlist!',
+                    value: 'https://www.youtube.com/playlist?list=PLrwcmfgl_RFqCEJ1agucYtTdh4XQi-yW5',
+                    inline: false,
+                },
+		    
             ],
         };
         
