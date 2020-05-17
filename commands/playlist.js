@@ -19,23 +19,29 @@ module.exports = {
 
             fields: [
                 {
-                    name: 'Main Playlist',
+                    name: 'Main Playlist:',
                     value: 'https://www.youtube.com/playlist?list=PLrwcmfgl_RFr2WikQnbxgwF1qZtXKDbd5',
                     inline: false,
                 },
  
                 {
-                    name: 'Faves Playlist',
+                    name: 'Faves Playlist:',
                     value: 'https://www.youtube.com/playlist?list=PLrwcmfgl_RFpDIEUh3h_AumYNuDYsPAOw',
                     inline: false,
                 },
 		
 		{
-                    name: 'Chinese Playlist',
+                    name: 'Chinese Playlist:',
                     value: 'https://www.youtube.com/playlist?list=PLrwcmfgl_RFqCEJ1agucYtTdh4XQi-yW5',
                     inline: false,
                 },
 		    
+		{
+		    name: 'Lofi Livestream:',
+		    value: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
+		    inline: false,    
+		},
+
             ],
         };
         
